@@ -16,6 +16,6 @@ Approach (2022)**
 - **Critical analysis on the implementation barriers and consumer perception toward future electric mobility (2022)**  
   DOI: [10.1177/09544070221080349](https://doi.org/10.1177/09544070221080349)
 
-  - **New Developments in Carbon-Based Nanomaterials for Automotive Brake Pad Applications and Future Challenges
+- **New Developments in Carbon-Based Nanomaterials for Automotive Brake Pad Applications and Future Challenges
 (2021)**  
   DOI: [10.1155/2021/6787435](https://doi.org/10.1155/2021/6787435)
