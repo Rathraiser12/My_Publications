@@ -4,7 +4,7 @@ Below is a list of my publications:
 
 - **Model-Based Integrated Control Strategy for Effective Brake Energy Recovery to Extend Battery Longevity in Electric
 Two Wheelers (2023).**  
-  DOI: [10.1177/095440702311676]([https://doi.org/10.1234/example1](https://doi.org/10.1177/095440702311676))
+  DOI: [10.1177/095440702311676](https://doi.org/10.1177/095440702311676)
 
 - **Computational Analysis of Pitch Sensitivity for a Concept Race Car (2022)**  
   DOI: [10.4271/2022-01-5065](https://doi.org/10.4271/2022-01-5065)
